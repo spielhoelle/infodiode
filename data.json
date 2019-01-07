@@ -1,0 +1,221 @@
+[
+  {
+    "kitchen-edition": [
+      {
+        "german": "Küche",
+        "english": "Kitchen",
+        "frensh": "Cuisine",
+        "arabic": "مطبخ",
+        "arabic_latin": "(mutabikh)"
+      },
+      {
+        "german": "Kühlschrank",
+        "english": "Fridge",
+        "frensh": "Réfrigérateur",
+        "arabic": "ثلاجة، ",
+        "arabic_latin": "(thalajatun)"
+      },
+      {
+        "german": "Waschbecken",
+        "english": "Sink",
+        "frensh": "Évier",
+        "arabic": "حوض غسيل",
+        "arabic_latin": "(hawd ghasil)"
+      },
+
+      {
+        "german": "Herd",
+        "english": "Oven",
+        "frensh": "Cuisinière",
+        "arabic": "موقد",
+        "arabic_latin": "(mawqid)"
+      }
+    ]
+  },
+  {
+    "neoliberalisms-edition": [
+      {
+        "german": "Geld ",
+        "english": "money",
+        "frensh": "minero",
+        "arabic": "نقود",
+        "arabic_latin": "(naqud)"
+      },
+
+      {
+        "german": "Leistung",
+        "english": "Performance",
+        "frensh": "Performance",
+        "arabic": "قدرة",
+        "arabic_latin": "(qudra)"
+      },
+
+      {
+        "german": "Druck",
+        "english": "pressure",
+        "frensh": "Pression ",
+        "arabic": "ضغط",
+        "arabic_latin": "(daght)"
+      },
+
+      {
+        "german": "Lebenslauf",
+        "english": "CV",
+        "frensh": "CV",
+        "arabic": "سيرة ذاتية",
+        "arabic_latin": "(sirat dhatia)"
+      }
+    ]
+  },
+  {
+    "politics-edition": [
+      {
+        "german": "Kapitalismus ",
+        "english": "Capitalisme",
+        "frensh": "Capitalism",
+        "arabic": "الرسمالية",
+        "arabic_latin": "(alraasmalia)"
+      },
+
+      {
+        "german": "Freiheit",
+        "english": "Liberty",
+        "frensh": "Liberté",
+        "arabic": "حرية",
+        "arabic_latin": "(huriya)"
+      },
+
+      {
+        "german": "Flucht",
+        "english": "Fuite",
+        "frensh": "Vuelo",
+        "arabic": "لجوء",
+        "arabic_latin": "(lujūʾ)"
+      },
+
+      {
+        "german": "Menschenrechte ",
+        "english": "Human Rights",
+        "frensh": "Droits humains",
+        "arabic": " حقوق الانسان",
+        "arabic_latin": "(huquq al‘iinsan)"
+      }
+    ]
+  },
+  {
+    "transport-edition": [
+      {
+        "german": "Fahrrad ",
+        "english": "Bicycle ",
+        "frensh": "Vélo Bisiklet ",
+        "arabic": "دراجة",
+        "arabic_latin": "(diraja)"
+      },
+
+      {
+        "german": "Bahn ",
+        "english": "Train  ",
+        "frensh": "Tren ",
+        "arabic": "قطار",
+        "arabic_latin": "(alqitar)"
+      },
+
+      {
+        "german": "Auto",
+        "english": "Car",
+        "frensh": "Voiture ",
+        "arabic": "سيارة",
+        "arabic_latin": "(sayara)"
+      },
+
+      {
+        "german": "Fahrschein ",
+        "english": "Ticket",
+        "frensh": "Ticket",
+        "arabic": "تذكرة السفر",
+        "arabic_latin": "(tadhkirat alsafar)"
+      }
+    ]
+  },
+  {
+    "food-edition": [
+      {
+        "german": "Gemüse ",
+        "english": "Vegetables",
+        "frensh": "Légumes ",
+        "arabic": "خضروات",
+        "arabic_latin": "(khadarawat)"
+      },
+
+      {
+        "german": "Brot",
+        "english": "Bread",
+        "frensh": "Pain ",
+        "arabic": "خبز",
+        "arabic_latin": "(khabaz)"
+      },
+
+      {
+        "german": "Nudeln",
+        "english": "Pasta",
+        "frensh": "Pâtes",
+        "arabic": "معكرونة",
+        "arabic_latin": "(maekruna)"
+      },
+
+      {
+        "german": "Käse",
+        "english": "Cheese",
+        "frensh": "Fromage",
+        "arabic": "جبنة",
+        "arabic_latin": "(jabna)"
+      }
+    ]
+  },
+  {
+    "guide-edition": [
+      {
+        "german": "Wo geht es zu ... ?",
+        "english": "How do I get to ...?",
+        "frensh": "Comment aller à/au...? ",
+        "arabic": "كيف أتحصل على",
+        "arabic_latin": "(kayf tahsul ealaa)"
+      }
+    ]
+  },
+  {
+    "weekend-edition": [
+      {
+        "german": "Feierabend",
+        "english": "End of the work day",
+        "frensh": "Fin de la journée de travail ",
+        "arabic": "انتهاء الدوام",
+        "arabic_latin": "(aintiha‘ aldawam)"
+      },
+
+      {
+        "german": "Kneipe",
+        "english": "Pub",
+        "frensh": "Bar",
+        "arabic": "بار",
+        "arabic_latin": "(bāra)"
+      },
+
+      {
+        "german": "Bier",
+        "english": "Beer",
+        "frensh": "Bière",
+        "arabic": "بيرة",
+        "arabic_latin": "(bayra)"
+      },
+
+      {
+        "german": "Feier",
+        "english": "Party",
+        "frensh": "Fête",
+        "arabic": "حفلة",
+        "arabic_latin": "(hafla)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  font-family: Arial;
+}
+h1 {
+  font-size: 4em;
+}
+a,
+a:hover,
+a:visited,
+a:focus,
+a:active {
+  color: #fff;
+}
+.mt-0 {
+  margin-top: 0;
+}
+.mt-5 {
+  margin-top: 2em;
+}
+.wrap {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+}
+.text-muted {
+  color: #555;
+}
+.opacity-3 {
+  opacity: 0.3;
+  transition: opacity 0.3s ease;
+}
+.opacity-3:hover {
+  opacity: 1;
+}
