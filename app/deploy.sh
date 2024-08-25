@@ -1,1 +1,0 @@
-rsync ./* tommy@thomaskuhnert.com:/var/www/infodiode/ -rP --exclude '.swp' --exclude 'node_modules' --delete
